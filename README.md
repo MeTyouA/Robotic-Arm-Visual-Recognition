@@ -127,54 +127,12 @@ A:
 - 减少图像处理步骤
 - 优化颜色阈值以减少误检
 
-## 扩展应用
-
-本项目可扩展用于：
-
-- 🤖 **机器人视觉导航**
-- 🎮 **体感游戏控制**
-- 📦 **物体分拣系统**
-- 🚗 **自动驾驶小车**
-- 🎯 **目标跟随系统**
-
-## 开发计划
-
-- [ ] 添加多目标同时追踪
-- [ ] 支持自定义形状识别
-- [ ] 集成机器学习模型
-- [ ] 添加 Wi-Fi 无线通信
-- [ ] 开发 Web 配置界面
-
 ## 技术栈
 
 - **语言**：MicroPython
 - **平台**：OpenMV Cam
 - **通信**：UART 串口协议
 - **图像处理**：OpenMV Vision Library
-
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-## 许可证
-
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
-
-## 联系方式
-
-- **Issues**：[GitHub Issues](https://github.com/yourusername/openmv/issues)
-- **Email**：your.email@example.com
-
-## 致谢
-
-- OpenMV 社区提供的优秀文档和示例代码
-- 所有为本项目做出贡献的开发者
 
 ---
 
