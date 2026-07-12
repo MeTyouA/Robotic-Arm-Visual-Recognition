@@ -20,8 +20,7 @@
 openmv/
 ├── main.py              # 主程序入口
 ├── Track_red.py         # 红色追踪模块
-├── Track_blake.py       # 黑色追踪模块
-└── README.md           # 项目说明文档
+├── Track_blake.py       # 黑色循迹模块
 ```
 
 ## 硬件要求
